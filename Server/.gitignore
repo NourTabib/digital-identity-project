@@ -1,0 +1,16 @@
+/Server/node_modules
+/Server/uploads
+/.expo
+/MobileClient/.expo
+/MobileClient/.expo-shared
+/MobileClient/node_modules
+/MobileClient/dist/
+/MobileClient/npm-debug.*/
+/MobileClient/*.jks/
+/MobileClient/*.p8/
+/MobileClient/*.p12/
+/MobileClient/*.key/
+/MobileClient/*.mobileprovision/
+/MobileClient/*.orig.*/
+/MobileClient/web-build/
+/MobileClient/.DS_Store
