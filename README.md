@@ -6,6 +6,6 @@ The server has been designed with robust security measures to ensure the privacy
 The server incorporates additional security measures such as the encryption of data both at rest and in transit. These measures ensure that the information is protected at all times, while still providing the necessary functionality to support the use case at hand.  
 This is just a prototype,there is a lot to improve.  
 
-I should note that the application was developed as part of my own learning journey with these technologies. While working on this project, I made many mistakes and faced a number of challenges that ultimately led to a better understanding of how to build secure and efficient systems. For example, I initially failed to design the solution thoroughly before beginning development, which led to significant rework later on.  
+I should note that the application was developed as part of my own learning journey with these technologies. While working on this project, I made many mistakes and faced a number of challenges that ultimately led to a better understanding of how to build secure and efficient systems. For example, I initially failed to design the solution thoroughly before beginning development, which led to significant rework later on.I also didn't centralise the configuration params in a single file which made it hard to make small changes.  
 
 In the upcoming development phase, my plan is to create a production-ready solution that meets the necessary standards and requirements.  
