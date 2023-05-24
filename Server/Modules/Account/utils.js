@@ -30,8 +30,6 @@ const cleanRequestFiles = (reqFiles) =>{
     });
     return temp;
 }
-// ADD DECALARED FUNCTIONS ABOVE
-// {moduleName : function }
 const utils =  {
     cleanRequestFiles : cleanRequestFiles,
     uploadImages : uploadImages,
