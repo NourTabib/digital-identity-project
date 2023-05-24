@@ -49,7 +49,6 @@ template = cv2.imread(ScanningTemplate)
 aligned = align_images(image, template)
 
 
-#print("[INFO] OCR'ing document...")
 parsingResults = []
 
 
