@@ -16,7 +16,7 @@ I should note that the application was developed as part of my own learning jour
 2. Implementing a server-side multi layer security policy, such as :      1.checking IPs.  
    2.the authenticity of the documents.  
    3.deep fake detection.  
-4. Adding security measures in the mobile client, such as :
+4. Adding security measures in the mobile client, such as :  
    1. proof of life. 
    2. Adding undetectable watermarks in the document pictures to verify forged pictures. 
    3. Blocking the app usage on rooted devices. 
