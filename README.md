@@ -13,9 +13,9 @@ I should note that the application was developed as part of my own learning jour
   
 #### Improvements to be made 
 1. In the registration process, it's better to Stream a video to the server instead of a single picture, so we can do OCR on a bunch of data and then juste taking the text that has higher frequency (eleminate faulty and corrupted Text) 
-2. Implementing a server-side multi layer security policy, such as :      1.checking IPs. 
-   2.the authenticity of the documents. 
-   3.deep fake detection. 
+2. Implementing a server-side multi layer security policy, such as :      1.checking IPs.  
+   2.the authenticity of the documents.  
+   3.deep fake detection.  
 4. Adding security measures in the mobile client, such as :
    1. proof of life. 
    2. Adding undetectable watermarks in the document pictures to verify forged pictures. 
